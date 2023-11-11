@@ -71,7 +71,7 @@ class _TodoListState extends State<TodoList> {
               )
             ],
           );
-        });
+        }).then((value) => value ?? false);
   }
 
   List<Widget> _getItems() {
