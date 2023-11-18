@@ -22,6 +22,6 @@ samples, guidance on mobile development, and a full API reference.
 - start the simulator and flutter run in terminal.
 
 Project Assignment  by- 
-Name : Santosh Katageri
-BITS-ID : 2022mt93129
+- Name : Santosh Katageri
+- BITS-ID : 2022mt93129
 
